@@ -19,6 +19,8 @@
 *.VC.db
 .vs
 Bin
+DirectXTK/Src/Shaders/Compiled/*.inc
+DirectXTK/Src/Shaders/Compiled/*.pdb
 ipch
 Debug
 Debug Win8
@@ -28,5 +30,6 @@ Release
 Release Win8
 Release XP
 x64
+packages
 Test
 /wiki
